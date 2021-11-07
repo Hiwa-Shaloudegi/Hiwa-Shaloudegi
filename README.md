@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hiwa Shaloudegi
+- 👋 Hi, I’m Hiwa
  
   
 <!---
